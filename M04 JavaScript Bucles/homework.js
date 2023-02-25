@@ -190,6 +190,8 @@ function esPrimo(num) {
    }
     
 }
+//console.log(esPrimo(5));
+
 
 function esVerdadero(valor) {
    // Si "valor" es verdadero retornar "Soy verdadero".
